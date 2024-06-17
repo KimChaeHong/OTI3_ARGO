@@ -1,3 +1,5 @@
+package day0617;
+
 import java.util.Scanner;
 
 public class Khw2775 {

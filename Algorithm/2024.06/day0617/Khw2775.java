@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class Khw2775 {
-	public static void main(String[] args) {
-		int t, k, n;
-		Scanner sc = new Scanner(System.in); 
-		t = sc.nextInt();
+    public static void main(String[] args) {
+        int t, k, n;
+        Scanner sc = new Scanner(System.in); 
+        t = sc.nextInt();
         int[] apt;
         
         while (t > 0) {
@@ -24,5 +24,5 @@ public class Khw2775 {
             t--;
         }
         sc.close();
-	}
+    }
 }

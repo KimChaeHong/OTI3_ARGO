@@ -1,8 +1,9 @@
+package day0618;
 
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class JSB_2798 {
 	static int[] arr;
 	static int[] three;
 	static int n,m;

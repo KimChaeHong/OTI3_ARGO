@@ -2,7 +2,6 @@
 ## _알고리즘 스터디_
 
 [![Build Status](https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png)](https://www.acmicpc.net/)
-[![Build Status]<svg xmlns="http://www.w3.org/2000/svg" width="178" height="25" fill="none" viewBox="0 0 178 25">
 
 | 요일 | 월 |화 |수 |목 |금 |
 | ------ | ------ |------ |------ |------ |------ |

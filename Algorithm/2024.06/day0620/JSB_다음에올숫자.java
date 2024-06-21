@@ -1,3 +1,5 @@
+package day0620;
+
 class Solution {
     public int solution(int[] common) {
         int answer = 0;
